@@ -4,7 +4,7 @@ fork from: https://github.com/sysadmintutorials/netapp-auto-aggregate-evacuation
 
 ## Description
 
-very nice script if you are doing ontap multinodecluster life cylce tasks.
+Very nice script if you are performing ontap multinodecluster life cycle tasks.
 
 ## File Listing & Description
 1. netapp_aggregate_evacuate.ps1<br>
